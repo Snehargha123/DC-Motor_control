@@ -1,1 +1,1 @@
-# DC-Motor_control
+# DC-Motor_control - MATLAB Project 
